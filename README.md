@@ -1,2 +1,2 @@
 # untitled-cfg
-not sure how to describe it, but you can make only certain parts of the game show, useful for editing.
+spiritual successor to green screen commands, this allows you to see the game part by part, e.g only the HUD or only the viemwodel.
